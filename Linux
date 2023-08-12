@@ -1,0 +1,26 @@
+% ls
+% ls -a
+% ls -s
+% ls -l
+% ls -F
+% ls --color=auto
+% ls --color=auto -Fs
+% ls --help
+% man ls
+% pwd
+% cd subdirectory_name
+% cd ..
+% cd
+% cd docs/chapter1/section2
+% cd /usr/share
+% mkdir my_project
+% mkdir include src
+% mkdir -p my_project/src
+% cp source_file_name destination_file_name
+% cp file_name1 file_name2 ...  directory_name
+% cp -r source_directory_name destination_directory_name
+% cp *.h include
+% mv old_file_name new_file_name
+% mv old_directory/file_name new_directory/file_name
+% mv old_directory/old_file_name new_directory/new_file_name
+% mv file_name1 file_name2 ... directory_name
